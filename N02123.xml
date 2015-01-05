@@ -116,12 +116,12 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:002521_0000_0FDB440F19047EC8"/>
-            <pb facs="tcp:002521_0001_0FDB60C457FEAF58"/>
+            <pb facs="unknown:002521_0000_0FDB440F19047EC8"/>
+            <pb facs="unknown:002521_0001_0FDB60C457FEAF58"/>
             <p>HEALTH, A POEM.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:002521_0002_0FDB60C5D1DCC4E8"/>
+            <pb facs="unknown:002521_0002_0FDB60C5D1DCC4E8"/>
             <p>HEALTH, A POEM.</p>
             <p>SHEWING HOW TO <hi>Procure, Preſerve,</hi> and <hi>Reſtore</hi> it.</p>
             <p>To which is annex'd, THE DOCTOR'S <hi>DECADE.</hi>
@@ -142,7 +142,7 @@
                </hi> on the <hi>South</hi> Side of the Town-Houſe, 1724.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:002521_0003_0FDB60C83630FC60"/>
+            <pb facs="unknown:002521_0003_0FDB60C83630FC60"/>
             <head>THE PREFACE</head>
             <p>
                <hi>
@@ -163,7 +163,7 @@
             <l>And thus the <hi>Soul</hi> is from the <hi>Body</hi> tore</l>
             <l>Before its Time.—</l>
             <l>
-               <pb n="vi" facs="tcp:002521_0004_0FDB60CBEEBB8428"/>
+               <pb n="vi" facs="unknown:002521_0004_0FDB60CBEEBB8428"/>
 Which, by a <hi>temperate</hi> Life, in a clean Cell,</l>
             <l>Might full a hundred years with comfort <hi>dwell,</hi>
             </l>
@@ -224,7 +224,7 @@ Which, by a <hi>temperate</hi> Life, in a clean Cell,</l>
                   <desc>•</desc>
                </gap>ans;</l>
             <l>
-               <pb n="vii" facs="tcp:002521_0005_0FDB60CE1654B0A8"/>
+               <pb n="vii" facs="unknown:002521_0005_0FDB60CE1654B0A8"/>
 And in inteſtine Wars they may divide,</l>
             <l>And <hi>Life'</hi>s Deſerters liſt on the wrong ſide.</l>
             <l>
@@ -252,7 +252,7 @@ And in inteſtine Wars they may divide,</l>
                <l>Than at a <hi>Pint</hi> it is to part.</l>
             </lg>
             <lg>
-               <pb n="viii" facs="tcp:002521_0006_0FDB60D05EE443A0"/>
+               <pb n="viii" facs="unknown:002521_0006_0FDB60D05EE443A0"/>
                <l>For one <hi>Pint</hi> draws another <hi>in,</hi>
                </l>
                <l>And that Pint lights a <hi>Pipe;</hi>
@@ -300,7 +300,7 @@ And in inteſtine Wars they may divide,</l>
                </l>
             </lg>
             <lg>
-               <pb n="ix" facs="tcp:002521_0007_0FDB60D1D1D965A0"/>
+               <pb n="ix" facs="unknown:002521_0007_0FDB60D1D1D965A0"/>
                <l>Good <hi>Wine</hi> will <hi>kill</hi> as well as <hi>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -344,7 +344,7 @@ And in inteſtine Wars they may divide,</l>
                   </gap> within,</l>
                <l>And in <hi>Deſpair</hi> begins to bawl,</l>
                <l>
-                  <pb n="x" facs="tcp:002521_0008_0FDB60D76E46D8F8"/>
+                  <pb n="x" facs="unknown:002521_0008_0FDB60D76E46D8F8"/>
                   <hi>Death,</hi> like a Drawer, then ſteps in,</l>
                <l>And asketh, <hi>Gentlemen!</hi> d'ye call<g ref="char:punc">▪</g>
                </l>
@@ -367,7 +367,7 @@ And in inteſtine Wars they may divide,</l>
                   </gap>erve a good Conſtitution and Stock of</hi> Health <hi>before it be too late.</hi>
             </p>
             <p>
-               <pb n="xi" facs="tcp:002521_0009_0FDB60D8A8A912A8"/>
+               <pb n="xi" facs="unknown:002521_0009_0FDB60D8A8A912A8"/>
                <hi>I cannot letter cloſe this Epiſtle, than as the ſame Author obſerves the old</hi> Romans <hi>to have done, to their Friends.</hi>
             </p>
             <lg>
@@ -410,7 +410,7 @@ And in inteſtine Wars they may divide,</l>
       </front>
       <body>
          <div type="poem">
-            <pb n="1" facs="tcp:002521_0010_0FDB60DA1CD316E0"/>
+            <pb n="1" facs="unknown:002521_0010_0FDB60DA1CD316E0"/>
             <head>AN ESSAY TO A RULE of HEALTH</head>
             <p>
                <label>The Definition.</label>
@@ -437,7 +437,7 @@ HEALTH is a free, eaſy, and perfect Enjoyment of all the Faculties of <hi>Mind<
                   </gap>
                </l>
                <l>
-                  <pb n="2" facs="tcp:002521_0011_0FDB60DDDC642870"/>
+                  <pb n="2" facs="unknown:002521_0011_0FDB60DDDC642870"/>
 She checks all Raſhneſs, and gives Time</l>
                <l>To think, and re-think each Deſign:</l>
                <l>Thoſe that do thus, before they act,</l>
@@ -486,7 +486,7 @@ She checks all Raſhneſs, and gives Time</l>
                      </gap>OSE,</hi> when tempted to't.</l>
             </lg>
             <lg>
-               <pb n="3" facs="tcp:002521_0012_0FDB60DF56AC0FD8"/>
+               <pb n="3" facs="unknown:002521_0012_0FDB60DF56AC0FD8"/>
                <l>Till <hi>Hunger</hi> pinches, never eat,</l>
                <l>And then on plain, not ſpiced Meat.</l>
                <l>Deſiſt before you eat your fill,</l>
@@ -532,7 +532,7 @@ She checks all Raſhneſs, and gives Time</l>
                   </gap> o'er</l>
                <l>With a Deſire of eating more.</l>
                <l>
-                  <pb n="4" facs="tcp:002521_0013_0FDB60E0DAF17600"/>
+                  <pb n="4" facs="unknown:002521_0013_0FDB60E0DAF17600"/>
 For where one dies by <hi>Inanition,</hi>
                </l>
                <l>A thouſand periſh by <hi>Repletion.</hi>
@@ -574,7 +574,7 @@ For where one dies by <hi>Inanition,</hi>
                <l>Which you may very easily gueſs,</l>
                <l>By heavy, ſtiff, Unyieldineſs.</l>
                <l>
-                  <pb n="5" facs="tcp:002521_0014_0FDB60E2557BFC18"/>
+                  <pb n="5" facs="unknown:002521_0014_0FDB60E2557BFC18"/>
 Short <hi>Breath,</hi> high <hi>Pulſe, &amp; caetera<g ref="char:punc">▪</g>
                   </hi>
                </l>
@@ -627,7 +627,7 @@ Short <hi>Breath,</hi> high <hi>Pulſe, &amp; caetera<g ref="char:punc">▪</g>
                   <g ref="char:punc">▪</g>
                </l>
                <l>
-                  <pb n="6" facs="tcp:002521_0015_0FDB60E6053F3360"/>
+                  <pb n="6" facs="unknown:002521_0015_0FDB60E6053F3360"/>
 Provided that your Judgment's tight,</l>
                <l>And take the Indication right;</l>
                <l>Ev'n then be not the only Agent,</l>
@@ -662,7 +662,7 @@ Provided that your Judgment's tight,</l>
                <l>When you are faint, your Spirits low,</l>
                <l>Your String relax'd, 'twill bend your Bow,</l>
                <l>
-                  <pb n="7" facs="tcp:002521_0016_0FDB60E8528D30F8"/>
+                  <pb n="7" facs="unknown:002521_0016_0FDB60E8528D30F8"/>
 Brace your Drum Head, and make it tight,</l>
                <l>Wind up your Watch, and ſet you right:</l>
                <l>But then again the two much Uſe</l>
@@ -709,7 +709,7 @@ Brace your Drum Head, and make it tight,</l>
                <l>For Virtuoſo's to deſcry,</l>
                <l>Tho' Glaſſes come t'aſſiſt their Bye</l>
                <l>
-                  <pb n="8" facs="tcp:002521_0017_0FDB60ED30122AE8"/>
+                  <pb n="8" facs="unknown:002521_0017_0FDB60ED30122AE8"/>
 Ceaſe then, vain Search! let that alone,</l>
                <l>Hid, with all Eſſences unknown;</l>
                <l>But be content that the <hi>Creator,</hi>
@@ -746,7 +746,7 @@ Ceaſe then, vain Search! let that alone,</l>
                <l>That is, without or <hi>Smell</hi> or <hi>Taſte:</hi>
                </l>
                <l>
-                  <pb n="9" facs="tcp:002521_0018_0FDB60EF1C78D180"/>
+                  <pb n="9" facs="unknown:002521_0018_0FDB60EF1C78D180"/>
 Which ſtanding long, yields few Contents,</l>
                <l>Of <hi>Scum,</hi> or <hi>Clouds,</hi> or <hi>Sediments;</hi>
                </l>
@@ -782,7 +782,7 @@ Which ſtanding long, yields few Contents,</l>
                <l>Becauſe it does <hi>inhebitate;</hi>
                </l>
                <l>
-                  <pb n="10" facs="tcp:002521_0019_0FDB60F35F4468E8"/>
+                  <pb n="10" facs="unknown:002521_0019_0FDB60F35F4468E8"/>
 And Sloth, and ſluggiſhneſs induce,</l>
                <l>And ſpoil your natural Reſt by Uſe.</l>
                <l>This Cuſtom, Students muſt avoid,</l>
@@ -823,7 +823,7 @@ And Sloth, and ſluggiſhneſs induce,</l>
                <l>And makes the Spirits brisk and good,</l>
                <l>After a bad Good-fellow-Hood</l>
                <l>
-                  <pb n="11" facs="tcp:002521_0020_0FDB60F518E88E70"/>
+                  <pb n="11" facs="unknown:002521_0020_0FDB60F518E88E70"/>
 Had left their ſpringy Parts uncurl'd,</l>
                <l>Like a looſe <hi>Sail</hi> that is unfurl'd,</l>
                <l>Thoſe Air and Action buckle up,</l>
@@ -862,7 +862,7 @@ Had left their ſpringy Parts uncurl'd,</l>
                <l>Life on ſmooth Skeets ſlides ſwiftly by.</l>
             </lg>
             <lg>
-               <pb n="12" facs="tcp:002521_0021_0FDB60F6CA2E1FF8"/>
+               <pb n="12" facs="unknown:002521_0021_0FDB60F6CA2E1FF8"/>
                <l>In Walking let your <hi>Cloaths</hi> be thin,</l>
                <l>But not too tight, or ſtrait to th<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -899,7 +899,7 @@ Had left their ſpringy Parts uncurl'd,</l>
                <l>Walk to be warm, but not to ſweat,</l>
                <l>Or by Degrees take down your Heat;</l>
                <l>
-                  <pb n="13" facs="tcp:002521_0022_0FDB60FA88503068"/>
+                  <pb n="13" facs="unknown:002521_0022_0FDB60FA88503068"/>
 Drink not until you'r very <hi>cool,</hi>
                </l>
                <l>And gently move to get a Stool.</l>
@@ -937,7 +937,7 @@ Drink not until you'r very <hi>cool,</hi>
                </l>
                <l>By which a good cool Habit's ſpoil'd;</l>
                <l>
-                  <pb n="14" facs="tcp:002521_0023_0FDB60FBD1946590"/>
+                  <pb n="14" facs="unknown:002521_0023_0FDB60FBD1946590"/>
 For in a mod'rate Temperature,</l>
                <l>The welfare of the Child's ſecure.</l>
                <l>In ſhort, obſerve, the tender Young</l>
@@ -978,7 +978,7 @@ For in a mod'rate Temperature,</l>
                <l>They both are Enemies to <hi>Life,</hi>
                </l>
                <l>
-                  <pb n="15" facs="tcp:002521_0024_0FDB610153BDC5A0"/>
+                  <pb n="15" facs="unknown:002521_0024_0FDB610153BDC5A0"/>
 And fatal often in Extremes,</l>
                <l>To which ſide e'er the <hi>Paſſion</hi> leans.</l>
                <l>In both let <hi>Reaſon</hi> mitigate,</l>
@@ -1019,7 +1019,7 @@ And fatal often in Extremes,</l>
                <l>In Life's vaſt <hi>Labyrinth</hi> and <hi>Maze;</hi>
                </l>
                <l>
-                  <pb n="16" facs="tcp:002521_0025_0FDB610298354018"/>
+                  <pb n="16" facs="unknown:002521_0025_0FDB610298354018"/>
 Which thro' unknown <hi>Maeander</hi> run,</l>
                <l>And circulates to where't begun,</l>
                <l>And reſtleſs in its Courſe, keeps on.</l>
@@ -1058,7 +1058,7 @@ Which thro' unknown <hi>Maeander</hi> run,</l>
                <l>That made this great <hi>Automaton?</hi>
                </l>
                <l>
-                  <pb n="17" facs="tcp:002521_0026_0FDB61043A643A18"/>
+                  <pb n="17" facs="unknown:002521_0026_0FDB61043A643A18"/>
 Here let the <hi>proſtrate</hi> World adore</l>
                <l>His infinite <hi>Goodneſs, Wiſdom, Power.</hi>
                </l>
@@ -1098,7 +1098,7 @@ Here let the <hi>proſtrate</hi> World adore</l>
                </l>
                <l>Where <hi>Dizzineſs</hi> and <hi>Fumes</hi> are bred;</l>
                <l>
-                  <pb n="18" facs="tcp:002521_0027_0FDB61081F2AF930"/>
+                  <pb n="18" facs="unknown:002521_0027_0FDB61081F2AF930"/>
 Then Life's in Danger, if you totter,</l>
                <l>Be your <hi>Horſe</hi> Pacer, or a Trotter:</l>
                <l>So let the <hi>Rider</hi> take a Care,</l>
@@ -1142,7 +1142,7 @@ Then Life's in Danger, if you totter,</l>
                <l>'Tis there the Lungs have Liberty</l>
                <l>To play their <hi>Fan</hi> moſt pleaſantly.</l>
                <l>
-                  <pb n="19" facs="tcp:002521_0028_0FDB610980064578"/>
+                  <pb n="19" facs="unknown:002521_0028_0FDB610980064578"/>
 The <hi>Air</hi> is beſt on riſing <hi>Hills,</hi>
                </l>
                <l>Alſo near <hi>grav'ly running Rills;</hi>
@@ -1190,7 +1190,7 @@ The <hi>Air</hi> is beſt on riſing <hi>Hills,</hi>
                </l>
                <l>For thoſe who moſtly feed on theſe,</l>
                <l>
-                  <pb n="20" facs="tcp:002521_0029_0FDB610E80CF2740"/>
+                  <pb n="20" facs="unknown:002521_0029_0FDB610E80CF2740"/>
 Live long, and gently wear away,</l>
                <l>Perceiving not their own Decay,</l>
                <l>To th' utmoſt Point o'th' fatal Day.</l>
@@ -1219,7 +1219,7 @@ Live long, and gently wear away,</l>
             </lg>
          </div>
          <div type="poem">
-            <pb n="21" facs="tcp:002521_0030_0FDB610F5D556640"/>
+            <pb n="21" facs="unknown:002521_0030_0FDB610F5D556640"/>
             <head>
                <l>The Doctor's Decade;</l>
                <l>Or the Ten Utenſils of his Trade.</l>
@@ -1263,7 +1263,7 @@ Live long, and gently wear away,</l>
                <l>So can't be too wary,</l>
                <l>Where Caſes do vary;</l>
                <l>
-                  <pb n="22" facs="tcp:002521_0031_0FDB6110D0A68AF0"/>
+                  <pb n="22" facs="unknown:002521_0031_0FDB6110D0A68AF0"/>
 For a Doſe oft too much,</l>
                <l>Turns <hi>PUG</hi> o'er the Perch.</l>
                <l>What more they advance,</l>
@@ -1299,7 +1299,7 @@ For a Doſe oft too much,</l>
                <l>And can ſee in the Sp—m</l>
                <l>Generations to come:</l>
                <l>
-                  <pb n="23" facs="tcp:002521_0032_0FDB611400F76FC0"/>
+                  <pb n="23" facs="unknown:002521_0032_0FDB611400F76FC0"/>
 Like Tad-poles a ſwimming</l>
                <l>To the Land of the Living.</l>
                <l>Yet for all this <hi>fine</hi> Show,</l>
@@ -1342,7 +1342,7 @@ Like Tad-poles a ſwimming</l>
                <l>Where <hi>Health</hi> lay in Pickle<g ref="char:punc">▪</g>
                </l>
                <l>
-                  <pb n="24" facs="tcp:002521_0033_0FDB61174F28CC60"/>
+                  <pb n="24" facs="unknown:002521_0033_0FDB61174F28CC60"/>
 That ancient <hi>Farrago,</hi>
                </l>
                <l>Exploded long ago,</l>
@@ -1380,7 +1380,7 @@ That ancient <hi>Farrago,</hi>
                <l>We muſt all acquieſce,</l>
                <l>And Practice by Gueſs.</l>
                <l>
-                  <pb n="25" facs="tcp:002521_0034_0FDB6119D309C398"/>
+                  <pb n="25" facs="unknown:002521_0034_0FDB6119D309C398"/>
 Till the College reveals</l>
                <l>What their Prudence conceals;</l>
                <l>For the <hi>Arcanas</hi> of Art,</l>
@@ -1421,7 +1421,7 @@ Till the College reveals</l>
                <l>By <hi>Potion</hi> or <hi>Pill;</hi>
                </l>
                <l>
-                  <pb n="26" facs="tcp:002521_0035_0FDB60532D204AB8"/>
+                  <pb n="26" facs="unknown:002521_0035_0FDB60532D204AB8"/>
 No <hi>Powders</hi> nor <hi>Bolus,</hi>
                </l>
                <l>Nor <hi>Iſſue<g ref="char:punc">▪</g>
@@ -1475,7 +1475,7 @@ No <hi>Powders</hi> nor <hi>Bolus,</hi>
                <l>What his Patients endure,</l>
                <l>He'll avoid to be ſure:</l>
                <l>
-                  <pb n="27" facs="tcp:002521_0036_0FDB611FD52C9BC8"/>
+                  <pb n="27" facs="unknown:002521_0036_0FDB611FD52C9BC8"/>
 Their <hi>Groans</hi> and their Aking,</l>
                <l>Does fright him from taking;</l>
                <l>Nor ſhall any <hi>Slops</hi>
